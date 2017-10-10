@@ -23,14 +23,24 @@ pull the framework from the 'iosuniversal' folder.
 
 ### Use Framework
 
+Swift  
 ```swift
 import Relaxful
 ```
 
+Objective-C  
+```objective-c
+#import <Relaxful/RelaxfulClient.h>
+```
+
 ### Make a Request
 
 ```swift
-
+Relaxer().request("url", completion: { (response) in
+    // process response
+}) { (error) in
+    // error           
+}
 ```
 
 ### Request With Paramaters
@@ -39,34 +49,25 @@ import Relaxful
 
 ```
 
+### Validate a Response
+
+Checks for invalid HTTP Response Codes  
+Valid response codes are 200, 304, and 409
+
+```swift
+Relaxer().request("url", completion: { (response) in
+   if(response.validate()) {
+       // valid
+   } else {
+       // error
+   }
+}) { (error) in
+    // error        
+}
+```
+
 ### Upload Request
 
 ```swift
-
-```
-
-## Objective-C
-
-### Use Framework
-
-```objective-c
-
-```
-
-### Make a Request
-
-```objective-c
-
-```
-
-### Request With Paramaters
-
-```objective-c
-
-```
-
-### Upload Request
-
-```objective-c
 
 ```
