@@ -1,6 +1,6 @@
 # Relaxful
 
-A REST API Client written in Objective-C and Swift for use with macOS, watchOS, iOS, and tvOS
+A REST API Client written in Swift for use with macOS, watchOS, iOS, and tvOS
 
 
 ## Use
@@ -19,18 +19,10 @@ Build each platform target in the project, right click on the
 framework for your platform in the 'Products' group and click 'Reveal in Finder'  
 pull the framework from the 'iosuniversal' folder. 
 
-## Swift
-
 ### Use Framework
-
-Swift  
+  
 ```swift
 import Relaxful
-```
-
-Objective-C  
-```objective-c
-#import <Relaxful/RelaxfulClient.h>
 ```
 
 ### Make a Request
