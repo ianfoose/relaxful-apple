@@ -13,8 +13,3 @@ FOUNDATION_EXPORT double RelaxfulVersionNumber;
 FOUNDATION_EXPORT const unsigned char RelaxfulVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Relaxful/PublicHeader.h>
-
-#import <Relaxful/RelaxerClient.h>
-#import <Relaxful/Method.h>
-#import <Relaxful/Response.h>
-#import <Relaxful/UploadDelegate.h>

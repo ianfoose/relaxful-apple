@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E67F8FB41F94FE69002EDE67 /* UniversalFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = E67F8FB31F94FE69002EDE67 /* UniversalFramework.sh */; };
+		E67F8FB51F94FE69002EDE67 /* UniversalFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = E67F8FB31F94FE69002EDE67 /* UniversalFramework.sh */; };
+		E67F8FB61F94FE69002EDE67 /* UniversalFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = E67F8FB31F94FE69002EDE67 /* UniversalFramework.sh */; };
+		E67F8FB71F94FE69002EDE67 /* UniversalFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = E67F8FB31F94FE69002EDE67 /* UniversalFramework.sh */; };
 		E6A7CBCA1F847C0F0035D3F2 /* Relaxful.h in Headers */ = {isa = PBXBuildFile; fileRef = E6A7CBBC1F847C0E0035D3F2 /* Relaxful.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6AE05181F8B0D0B00DD74F0 /* UniversalFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = E6E9014E1F89B8780027A2E1 /* UniversalFramework.sh */; };
-		E6AE05191F8B0D0C00DD74F0 /* UniversalFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = E6E9014E1F89B8780027A2E1 /* UniversalFramework.sh */; };
-		E6AE051A1F8B0D0C00DD74F0 /* UniversalFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = E6E9014E1F89B8780027A2E1 /* UniversalFramework.sh */; };
-		E6AE051B1F8B0D0D00DD74F0 /* UniversalFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = E6E9014E1F89B8780027A2E1 /* UniversalFramework.sh */; };
 		E6E900D61F8856220027A2E1 /* Method.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E900D51F8856220027A2E1 /* Method.swift */; };
 		E6E900D81F88563B0027A2E1 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E900D71F88563B0027A2E1 /* Response.swift */; };
 		E6E900D91F88563B0027A2E1 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E900D71F88563B0027A2E1 /* Response.swift */; };
@@ -28,40 +28,13 @@
 		E6E900E61F88569C0027A2E1 /* Relaxer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E900E41F88569C0027A2E1 /* Relaxer.swift */; };
 		E6E900E71F88569C0027A2E1 /* Relaxer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E900E41F88569C0027A2E1 /* Relaxer.swift */; };
 		E6E900E81F88569C0027A2E1 /* Relaxer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E900E41F88569C0027A2E1 /* Relaxer.swift */; };
-		E6E900EB1F8856D20027A2E1 /* RelaxerClient.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900E91F8856D20027A2E1 /* RelaxerClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E900EC1F8856D20027A2E1 /* RelaxerClient.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900E91F8856D20027A2E1 /* RelaxerClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E900ED1F8856D20027A2E1 /* RelaxerClient.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900E91F8856D20027A2E1 /* RelaxerClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E900EE1F8856D20027A2E1 /* RelaxerClient.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900E91F8856D20027A2E1 /* RelaxerClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E900EF1F8856D20027A2E1 /* RelaxerClient.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900EA1F8856D20027A2E1 /* RelaxerClient.m */; };
-		E6E900F01F8856D20027A2E1 /* RelaxerClient.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900EA1F8856D20027A2E1 /* RelaxerClient.m */; };
-		E6E900F11F8856D20027A2E1 /* RelaxerClient.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900EA1F8856D20027A2E1 /* RelaxerClient.m */; };
-		E6E900F21F8856D20027A2E1 /* RelaxerClient.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900EA1F8856D20027A2E1 /* RelaxerClient.m */; };
-		E6E900F51F8857070027A2E1 /* Response.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900F31F8857070027A2E1 /* Response.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E900F61F8857070027A2E1 /* Response.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900F31F8857070027A2E1 /* Response.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E900F71F8857070027A2E1 /* Response.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900F31F8857070027A2E1 /* Response.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E900F81F8857070027A2E1 /* Response.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900F31F8857070027A2E1 /* Response.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E900F91F8857070027A2E1 /* Response.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900F41F8857070027A2E1 /* Response.m */; };
-		E6E900FA1F8857070027A2E1 /* Response.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900F41F8857070027A2E1 /* Response.m */; };
-		E6E900FB1F8857070027A2E1 /* Response.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900F41F8857070027A2E1 /* Response.m */; };
-		E6E900FC1F8857070027A2E1 /* Response.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900F41F8857070027A2E1 /* Response.m */; };
-		E6E900FF1F8857100027A2E1 /* Method.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900FD1F8857100027A2E1 /* Method.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E901001F8857100027A2E1 /* Method.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900FD1F8857100027A2E1 /* Method.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E901011F8857100027A2E1 /* Method.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900FD1F8857100027A2E1 /* Method.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E901021F8857100027A2E1 /* Method.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E900FD1F8857100027A2E1 /* Method.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E901031F8857100027A2E1 /* Method.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900FE1F8857100027A2E1 /* Method.m */; };
-		E6E901041F8857100027A2E1 /* Method.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900FE1F8857100027A2E1 /* Method.m */; };
-		E6E901051F8857100027A2E1 /* Method.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900FE1F8857100027A2E1 /* Method.m */; };
-		E6E901061F8857100027A2E1 /* Method.m in Sources */ = {isa = PBXBuildFile; fileRef = E6E900FE1F8857100027A2E1 /* Method.m */; };
-		E6E901081F8857590027A2E1 /* UploadDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E901071F8857590027A2E1 /* UploadDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E901091F8857590027A2E1 /* UploadDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E901071F8857590027A2E1 /* UploadDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E9010A1F8857590027A2E1 /* UploadDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E901071F8857590027A2E1 /* UploadDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E6E9010B1F8857590027A2E1 /* UploadDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E901071F8857590027A2E1 /* UploadDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E6E9010C1F8857EC0027A2E1 /* Relaxful.h in Headers */ = {isa = PBXBuildFile; fileRef = E6A7CBBC1F847C0E0035D3F2 /* Relaxful.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E6E9010D1F8857ED0027A2E1 /* Relaxful.h in Headers */ = {isa = PBXBuildFile; fileRef = E6A7CBBC1F847C0E0035D3F2 /* Relaxful.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E6E9010E1F8857EE0027A2E1 /* Relaxful.h in Headers */ = {isa = PBXBuildFile; fileRef = E6A7CBBC1F847C0E0035D3F2 /* Relaxful.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E67F8FB31F94FE69002EDE67 /* UniversalFramework.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = UniversalFramework.sh; sourceTree = "<group>"; };
 		E6A7CBB91F847C0D0035D3F2 /* Relaxful.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Relaxful.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6A7CBBC1F847C0E0035D3F2 /* Relaxful.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Relaxful.h; sourceTree = "<group>"; };
 		E6A7CBBD1F847C0E0035D3F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -72,14 +45,6 @@
 		E6E900D71F88563B0027A2E1 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		E6E900DF1F88566C0027A2E1 /* UploadDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadDelegate.swift; sourceTree = "<group>"; };
 		E6E900E41F88569C0027A2E1 /* Relaxer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Relaxer.swift; sourceTree = "<group>"; };
-		E6E900E91F8856D20027A2E1 /* RelaxerClient.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RelaxerClient.h; sourceTree = "<group>"; };
-		E6E900EA1F8856D20027A2E1 /* RelaxerClient.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RelaxerClient.m; sourceTree = "<group>"; };
-		E6E900F31F8857070027A2E1 /* Response.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Response.h; sourceTree = "<group>"; };
-		E6E900F41F8857070027A2E1 /* Response.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Response.m; sourceTree = "<group>"; };
-		E6E900FD1F8857100027A2E1 /* Method.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Method.h; sourceTree = "<group>"; };
-		E6E900FE1F8857100027A2E1 /* Method.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Method.m; sourceTree = "<group>"; };
-		E6E901071F8857590027A2E1 /* UploadDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UploadDelegate.h; sourceTree = "<group>"; };
-		E6E9014E1F89B8780027A2E1 /* UniversalFramework.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = UniversalFramework.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,9 +82,7 @@
 		E6A7CBAF1F847C0D0035D3F2 = {
 			isa = PBXGroup;
 			children = (
-				E6E9014E1F89B8780027A2E1 /* UniversalFramework.sh */,
-				E6E9008F1F8704520027A2E1 /* Objective-C */,
-				E6E9008E1F8704480027A2E1 /* Swift */,
+				E67F8FB31F94FE69002EDE67 /* UniversalFramework.sh */,
 				E6A7CBBB1F847C0D0035D3F2 /* Relaxful */,
 				E6A7CBBA1F847C0D0035D3F2 /* Products */,
 			);
@@ -139,35 +102,14 @@
 		E6A7CBBB1F847C0D0035D3F2 /* Relaxful */ = {
 			isa = PBXGroup;
 			children = (
-				E6A7CBBC1F847C0E0035D3F2 /* Relaxful.h */,
-				E6A7CBBD1F847C0E0035D3F2 /* Info.plist */,
-			);
-			path = Relaxful;
-			sourceTree = "<group>";
-		};
-		E6E9008E1F8704480027A2E1 /* Swift */ = {
-			isa = PBXGroup;
-			children = (
 				E6E900E41F88569C0027A2E1 /* Relaxer.swift */,
 				E6E900D51F8856220027A2E1 /* Method.swift */,
 				E6E900D71F88563B0027A2E1 /* Response.swift */,
 				E6E900DF1F88566C0027A2E1 /* UploadDelegate.swift */,
+				E6A7CBBC1F847C0E0035D3F2 /* Relaxful.h */,
+				E6A7CBBD1F847C0E0035D3F2 /* Info.plist */,
 			);
-			path = Swift;
-			sourceTree = "<group>";
-		};
-		E6E9008F1F8704520027A2E1 /* Objective-C */ = {
-			isa = PBXGroup;
-			children = (
-				E6E900E91F8856D20027A2E1 /* RelaxerClient.h */,
-				E6E900EA1F8856D20027A2E1 /* RelaxerClient.m */,
-				E6E900F31F8857070027A2E1 /* Response.h */,
-				E6E900F41F8857070027A2E1 /* Response.m */,
-				E6E900FD1F8857100027A2E1 /* Method.h */,
-				E6E900FE1F8857100027A2E1 /* Method.m */,
-				E6E901071F8857590027A2E1 /* UploadDelegate.h */,
-			);
-			path = "Objective-C";
+			path = Relaxful;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -177,11 +119,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6E900EB1F8856D20027A2E1 /* RelaxerClient.h in Headers */,
 				E6A7CBCA1F847C0F0035D3F2 /* Relaxful.h in Headers */,
-				E6E900F51F8857070027A2E1 /* Response.h in Headers */,
-				E6E900FF1F8857100027A2E1 /* Method.h in Headers */,
-				E6E901081F8857590027A2E1 /* UploadDelegate.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -189,11 +127,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6E900EC1F8856D20027A2E1 /* RelaxerClient.h in Headers */,
-				E6E900F61F8857070027A2E1 /* Response.h in Headers */,
 				E6E9010C1F8857EC0027A2E1 /* Relaxful.h in Headers */,
-				E6E901001F8857100027A2E1 /* Method.h in Headers */,
-				E6E901091F8857590027A2E1 /* UploadDelegate.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -201,11 +135,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6E900ED1F8856D20027A2E1 /* RelaxerClient.h in Headers */,
-				E6E900F71F8857070027A2E1 /* Response.h in Headers */,
 				E6E9010D1F8857ED0027A2E1 /* Relaxful.h in Headers */,
-				E6E901011F8857100027A2E1 /* Method.h in Headers */,
-				E6E9010A1F8857590027A2E1 /* UploadDelegate.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,11 +143,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6E900EE1F8856D20027A2E1 /* RelaxerClient.h in Headers */,
-				E6E900F81F8857070027A2E1 /* Response.h in Headers */,
 				E6E9010E1F8857EE0027A2E1 /* Relaxful.h in Headers */,
-				E6E901021F8857100027A2E1 /* Method.h in Headers */,
-				E6E9010B1F8857590027A2E1 /* UploadDelegate.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -356,7 +282,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6AE05181F8B0D0B00DD74F0 /* UniversalFramework.sh in Resources */,
+				E67F8FB41F94FE69002EDE67 /* UniversalFramework.sh in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -364,7 +290,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6AE05191F8B0D0C00DD74F0 /* UniversalFramework.sh in Resources */,
+				E67F8FB51F94FE69002EDE67 /* UniversalFramework.sh in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -372,7 +298,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6AE051A1F8B0D0C00DD74F0 /* UniversalFramework.sh in Resources */,
+				E67F8FB61F94FE69002EDE67 /* UniversalFramework.sh in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -380,7 +306,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6AE051B1F8B0D0D00DD74F0 /* UniversalFramework.sh in Resources */,
+				E67F8FB71F94FE69002EDE67 /* UniversalFramework.sh in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,13 +359,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6E900F91F8857070027A2E1 /* Response.m in Sources */,
 				E6E900E01F88566C0027A2E1 /* UploadDelegate.swift in Sources */,
 				E6E900D81F88563B0027A2E1 /* Response.swift in Sources */,
 				E6E900D61F8856220027A2E1 /* Method.swift in Sources */,
-				E6E900EF1F8856D20027A2E1 /* RelaxerClient.m in Sources */,
 				E6E900E51F88569C0027A2E1 /* Relaxer.swift in Sources */,
-				E6E901031F8857100027A2E1 /* Method.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -447,13 +370,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6E900FA1F8857070027A2E1 /* Response.m in Sources */,
 				E6E900E11F88566C0027A2E1 /* UploadDelegate.swift in Sources */,
 				E6E900DC1F8856590027A2E1 /* Method.swift in Sources */,
 				E6E900D91F88563B0027A2E1 /* Response.swift in Sources */,
-				E6E900F01F8856D20027A2E1 /* RelaxerClient.m in Sources */,
 				E6E900E61F88569C0027A2E1 /* Relaxer.swift in Sources */,
-				E6E901041F8857100027A2E1 /* Method.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -461,13 +381,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6E900FB1F8857070027A2E1 /* Response.m in Sources */,
 				E6E900E21F88566C0027A2E1 /* UploadDelegate.swift in Sources */,
 				E6E900DD1F88565A0027A2E1 /* Method.swift in Sources */,
 				E6E900DA1F88563B0027A2E1 /* Response.swift in Sources */,
-				E6E900F11F8856D20027A2E1 /* RelaxerClient.m in Sources */,
 				E6E900E71F88569C0027A2E1 /* Relaxer.swift in Sources */,
-				E6E901051F8857100027A2E1 /* Method.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -475,13 +392,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6E900FC1F8857070027A2E1 /* Response.m in Sources */,
 				E6E900E31F88566C0027A2E1 /* UploadDelegate.swift in Sources */,
 				E6E900DE1F88565B0027A2E1 /* Method.swift in Sources */,
 				E6E900DB1F88563B0027A2E1 /* Response.swift in Sources */,
-				E6E900F21F8856D20027A2E1 /* RelaxerClient.m in Sources */,
 				E6E900E81F88569C0027A2E1 /* Relaxer.swift in Sources */,
-				E6E901061F8857100027A2E1 /* Method.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
