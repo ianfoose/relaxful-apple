@@ -15,12 +15,6 @@ s.source = {
 
 s.source_files = 'Source/*'
 
-s.ios.minimum_deployment_target = '8.0'
-
-s.tvos.minimum_deployment_target = '8.0'
-
-s.watchos.minimum_deployment_target = '2.0'
-
-s.macos.minimum_deployment_target = '10.0'
+s.platforms = { :ios => "8.0", :osx => "10.7", :watchos => "2.0", :tvos => "9.0" }
 
 end

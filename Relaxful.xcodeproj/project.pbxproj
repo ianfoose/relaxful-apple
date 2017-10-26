@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E65B70A41FA27E180040852C /* Relaxful.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E65B70A31FA27E180040852C /* Relaxful.podspec */; };
+		E65B70A51FA27E180040852C /* Relaxful.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E65B70A31FA27E180040852C /* Relaxful.podspec */; };
+		E65B70A61FA27E180040852C /* Relaxful.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E65B70A31FA27E180040852C /* Relaxful.podspec */; };
+		E65B70A71FA27E180040852C /* Relaxful.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E65B70A31FA27E180040852C /* Relaxful.podspec */; };
 		E67F8FB41F94FE69002EDE67 /* UniversalFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = E67F8FB31F94FE69002EDE67 /* UniversalFramework.sh */; };
 		E67F8FB51F94FE69002EDE67 /* UniversalFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = E67F8FB31F94FE69002EDE67 /* UniversalFramework.sh */; };
 		E67F8FB61F94FE69002EDE67 /* UniversalFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = E67F8FB31F94FE69002EDE67 /* UniversalFramework.sh */; };
@@ -34,6 +38,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E65B70A31FA27E180040852C /* Relaxful.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Relaxful.podspec; sourceTree = "<group>"; };
 		E67F8FB31F94FE69002EDE67 /* UniversalFramework.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = UniversalFramework.sh; sourceTree = "<group>"; };
 		E6A7CBB91F847C0D0035D3F2 /* Relaxful.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Relaxful.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6A7CBBC1F847C0E0035D3F2 /* Relaxful.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Relaxful.h; sourceTree = "<group>"; };
@@ -83,6 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				E67F8FB31F94FE69002EDE67 /* UniversalFramework.sh */,
+				E65B70A31FA27E180040852C /* Relaxful.podspec */,
 				E6A7CBBB1F847C0D0035D3F2 /* Relaxful */,
 				E6A7CBBA1F847C0D0035D3F2 /* Products */,
 			);
@@ -283,6 +289,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E67F8FB41F94FE69002EDE67 /* UniversalFramework.sh in Resources */,
+				E65B70A41FA27E180040852C /* Relaxful.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -291,6 +298,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E67F8FB51F94FE69002EDE67 /* UniversalFramework.sh in Resources */,
+				E65B70A51FA27E180040852C /* Relaxful.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +307,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E67F8FB61F94FE69002EDE67 /* UniversalFramework.sh in Resources */,
+				E65B70A61FA27E180040852C /* Relaxful.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +316,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E67F8FB71F94FE69002EDE67 /* UniversalFramework.sh in Resources */,
+				E65B70A71FA27E180040852C /* Relaxful.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
