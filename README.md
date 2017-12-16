@@ -126,7 +126,7 @@ You can pass params and headers the same as in an API Call.
 The ```data``` argument is a ```Data``` representation of your file.
 
 ```swift
-Relaxer().upload(.post, url: "https://url.com", params: nil, headers: nil, fileKey: "images", fileName: "image.png", mime: "png", data: file, uploadDelegate: nil)
+Relaxer().upload(.post, url: "https://url.com", params: nil, headers: nil, fileKey: "images", fileName: "image", mime: "png", data: file, uploadDelegate: nil)
 ```
 
 ### Upload Delegate
