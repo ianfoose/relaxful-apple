@@ -15,9 +15,7 @@ Install pod by adding line ``` ``` under each platform needed.
 
 ### Manually
 
-Build each platform target in the project, right click on the  
-framework for your platform in the 'Products' group and click 'Reveal in Finder'  
-pull the framework from the 'iosuniversal' folder. 
+Build each platform target in the project, right click on the framework for your platform in the 'Products' group and click 'Reveal in Finder' pull the framework from the 'iosuniversal' folder. 
 
 ### Use Framework
   
@@ -25,8 +23,7 @@ pull the framework from the 'iosuniversal' folder.
 import Relaxful
 ```
 
-Relaxful does support HTTPS, if HTTP is used, be sure to  
-set the AppTransportSecurity setting in your ```info.plist```.
+Relaxful does support HTTPS, if HTTP is used, be sure to set the AppTransportSecurity setting in your ```info.plist```.
 
 ### Make a Request
 
@@ -63,8 +60,7 @@ Relaxer().request(.get, url: "https://url.com", body: nil, headers: ["someHeader
 
 ### Validate a Response
 
-Checks for invalid HTTP Response Codes  
-Valid response codes are 200, 304, and 409
+Checks for invalid HTTP Response Codes, valid response codes are 200, 304, and 409.
 
 ```swift
 Relaxer().request("url", completion: { (response) in
@@ -131,8 +127,7 @@ Relaxer().upload(.post, url: "https://url.com", params: nil, headers: nil, fileK
 
 ### Upload Delegate
 
-To receieve notice of upload progress and if it completed with or without an error  
-implement the ```UploadDelegate``` class.
+To receieve notice of upload progress and if it completed with or without an error implement the ```UploadDelegate``` class.
 
 ```swift
  // progress update
@@ -154,12 +149,11 @@ implement the ```UploadDelegate``` class.
 
 ### Response
 
-A response object contains properties and formatted data from
-the API Call.
+A response object contains properties and formatted data from the API Call.
 
 Note: all properties are optional except for 'status'.
 
-Accessable Properties are:
+### Accessable Properties are:
 
 - response, the URLResponse
 - status, the HTTP Status
